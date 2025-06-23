@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\otel-dotnet-starter.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\otel-dotnet-starter.Web.11sde5q9c8.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.otel-dotnet-starter.Web.props",
+      "PackagePath": "build\\otel-dotnet-starter.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.otel-dotnet-starter.Web.props",
+      "PackagePath": "buildMultiTargeting\\otel-dotnet-starter.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.otel-dotnet-starter.Web.props",
+      "PackagePath": "buildTransitive\\otel-dotnet-starter.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.otel-dotnet-starter.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.otel-dotnet-starter.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

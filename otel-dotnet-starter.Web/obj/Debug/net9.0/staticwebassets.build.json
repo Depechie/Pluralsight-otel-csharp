@@ -1,0 +1,1825 @@
+{
+  "Version": 1,
+  "Hash": "N/cfz4M9M0XMoS6Zrl5jd5xoffYayKkv7qWkBD++FfY=",
+  "Source": "otel-dotnet-starter.Web",
+  "BasePath": "_content/otel-dotnet-starter.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "otel-dotnet-starter.Web\\wwwroot",
+      "Source": "otel-dotnet-starter.Web",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\3fogupofl9-2lvz4ynmt8.gz",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "app#[.{fingerprint=2lvz4ynmt8}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zvx72pnelg",
+      "Integrity": "T91psgTylk4Wl5aqRi+3mLNHdCcQvUyc6uyHrRvOfd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\4o6kbbft1k-11sde5q9c8.gz",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "otel-dotnet-starter.Web#[.{fingerprint=11sde5q9c8}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\otel-dotnet-starter.Web.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kfeayerryh",
+      "Integrity": "kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\otel-dotnet-starter.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\k673ane091-11sde5q9c8.gz",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "otel-dotnet-starter.Web#[.{fingerprint=11sde5q9c8}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\otel-dotnet-starter.Web.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kfeayerryh",
+      "Integrity": "kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\otel-dotnet-starter.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\wmnkrevtpi-6gzpyzhau4.gz",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7l51xal3e9",
+      "Integrity": "dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\xxfg42xhni-8inm30yfxf.gz",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m532s4naxw",
+      "Integrity": "epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\otel-dotnet-starter.Web.styles.css",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "otel-dotnet-starter.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "11sde5q9c8",
+      "Integrity": "JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\otel-dotnet-starter.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\otel-dotnet-starter.Web.bundle.scp.css",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "otel-dotnet-starter.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "11sde5q9c8",
+      "Integrity": "JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\otel-dotnet-starter.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\app.css",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2lvz4ynmt8",
+      "Integrity": "WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\favicon.png",
+      "SourceId": "otel-dotnet-starter.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\",
+      "BasePath": "_content/otel-dotnet-starter.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.2lvz4ynmt8.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\3fogupofl9-2lvz4ynmt8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000685400960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T91psgTylk4Wl5aqRi+3mLNHdCcQvUyc6uyHrRvOfd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2lvz4ynmt8"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs="
+        }
+      ]
+    },
+    {
+      "Route": "app.2lvz4ynmt8.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2lvz4ynmt8"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs="
+        }
+      ]
+    },
+    {
+      "Route": "app.2lvz4ynmt8.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\3fogupofl9-2lvz4ynmt8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T91psgTylk4Wl5aqRi+3mLNHdCcQvUyc6uyHrRvOfd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2lvz4ynmt8"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T91psgTylk4Wl5aqRi+3mLNHdCcQvUyc6uyHrRvOfd8="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\3fogupofl9-2lvz4ynmt8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000685400960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T91psgTylk4Wl5aqRi+3mLNHdCcQvUyc6uyHrRvOfd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WjnVyJMK4Tjewe70euxZxx4pE+AZ7rSM2CZ1hwSalLs="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\3fogupofl9-2lvz4ynmt8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T91psgTylk4Wl5aqRi+3mLNHdCcQvUyc6uyHrRvOfd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T91psgTylk4Wl5aqRi+3mLNHdCcQvUyc6uyHrRvOfd8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\wmnkrevtpi-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041912905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\wmnkrevtpi-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\wmnkrevtpi-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041912905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\xxfg42xhni-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\xxfg42xhni-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\wmnkrevtpi-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\xxfg42xhni-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\xxfg42xhni-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.11sde5q9c8.bundle.scp.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\4o6kbbft1k-11sde5q9c8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000573394495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "11sde5q9c8"
+        },
+        {
+          "Name": "label",
+          "Value": "otel-dotnet-starter.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.11sde5q9c8.bundle.scp.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\otel-dotnet-starter.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "11sde5q9c8"
+        },
+        {
+          "Name": "label",
+          "Value": "otel-dotnet-starter.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.11sde5q9c8.bundle.scp.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\4o6kbbft1k-11sde5q9c8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "11sde5q9c8"
+        },
+        {
+          "Name": "label",
+          "Value": "otel-dotnet-starter.Web.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.11sde5q9c8.styles.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\k673ane091-11sde5q9c8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000573394495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "11sde5q9c8"
+        },
+        {
+          "Name": "label",
+          "Value": "otel-dotnet-starter.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.11sde5q9c8.styles.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\otel-dotnet-starter.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "11sde5q9c8"
+        },
+        {
+          "Name": "label",
+          "Value": "otel-dotnet-starter.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.11sde5q9c8.styles.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\k673ane091-11sde5q9c8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "11sde5q9c8"
+        },
+        {
+          "Name": "label",
+          "Value": "otel-dotnet-starter.Web.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.bundle.scp.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\4o6kbbft1k-11sde5q9c8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000573394495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.bundle.scp.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\otel-dotnet-starter.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.bundle.scp.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\4o6kbbft1k-11sde5q9c8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.styles.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\k673ane091-11sde5q9c8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000573394495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.styles.css",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\otel-dotnet-starter.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbFZgrTUBooumbjCOP6HxEAU9xfqLTDtJ276am+Pa/M="
+        }
+      ]
+    },
+    {
+      "Route": "otel-dotnet-starter.Web.styles.css.gz",
+      "AssetFile": "C:\\Projects\\otel-dotnet-starter\\otel-dotnet-starter.Web\\obj\\Debug\\net9.0\\compressed\\k673ane091-11sde5q9c8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 19:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kDExhnBWluci+I8xxsjJsScAbSCFocl6A2s+pYEmV2w="
+        }
+      ]
+    }
+  ]
+}

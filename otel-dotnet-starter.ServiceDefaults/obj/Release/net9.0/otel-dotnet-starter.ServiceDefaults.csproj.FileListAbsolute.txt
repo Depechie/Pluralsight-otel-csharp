@@ -1,0 +1,12 @@
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\bin\Release\net9.0\otel-dotnet-starter.ServiceDefaults.deps.json
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\bin\Release\net9.0\otel-dotnet-starter.ServiceDefaults.dll
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\bin\Release\net9.0\otel-dotnet-starter.ServiceDefaults.pdb
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\otel-dotnet-starter.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\otel-dotnet-starter.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\otel-dotnet-starter.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\otel-dotnet-starter.ServiceDefaults.AssemblyInfo.cs
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\otel-dotnet-starter.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\otel-dotnet-starter.ServiceDefaults.dll
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\refint\otel-dotnet-starter.ServiceDefaults.dll
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\otel-dotnet-starter.ServiceDefaults.pdb
+C:\Projects\otel-dotnet-starter\otel-dotnet-starter.ServiceDefaults\obj\Release\net9.0\ref\otel-dotnet-starter.ServiceDefaults.dll

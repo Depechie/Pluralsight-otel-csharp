@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Sdk Name="Aspire.AppHost.Sdk" Version="9.2.1" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>e9f006ac-8eb0-4b30-9d00-8ccd24345e80</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\otel-dotnet-starter.ApiService\otel-dotnet-starter.ApiService.csproj" />
+    <ProjectReference Include="..\otel-dotnet-starter.Web\otel-dotnet-starter.Web.csproj" />
+    <ProjectReference Include="..\otel-dotnet-starter.WorkerService\otel-dotnet-starter.WorkerService.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.3.0" />
+    <PackageReference Include="Aspire.Hosting.RabbitMQ" Version="9.3.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\otel-dotnet-starter.ApiService.props" />
+</Project>

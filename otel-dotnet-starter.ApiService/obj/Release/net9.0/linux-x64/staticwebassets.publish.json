@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lNd24E5ihC/H4HALZwGCilFMtnifAE2K82qjf3BkDdQ=",
+  "Source": "otel-dotnet-starter.ApiService",
+  "BasePath": "_content/otel-dotnet-starter.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-otel_dotnet_starter.WorkerService-e465ded5-98ef-4ea2-ae4c-c40ccae0dae5</UserSecretsId>
+    <RootNamespace>otel_dotnet_starter.WorkerService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.RabbitMQ.Client.v7" Version="9.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\otel-dotnet-starter.ServiceDefaults\otel-dotnet-starter.ServiceDefaults.csproj" />
+  </ItemGroup>
+</Project>
